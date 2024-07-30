@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Noah
+- 👀 I’m interested in sports and video games
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on work
+- 📫 How to reach me email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play baseball
